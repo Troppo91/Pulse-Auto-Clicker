@@ -1,4 +1,5 @@
 💎 PULSE: Auto Clicker & Macro Suite
+
 A high-precision, low-profile automation engine for Windows.
 
 <img width="1132" height="937" alt="Screenshot 2026-02-12 190919" src="https://github.com/user-attachments/assets/2fe3e487-f334-4849-8c71-ec0645865ee3" />
