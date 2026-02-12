@@ -4,7 +4,7 @@ High-precision, low-profile automation for Windows.
 
 [!IMPORTANT] DOWNLOAD REQUIREMENT: For full UI functionality and reliable auto-updates, please download only the Pulse.exe file from the Releases tab. Running the application from inside a .zip folder may cause rendering failures and block network requests.
 
-⚡OverviewPULSE is a professional-grade automation engine designed for users who demand frame-perfect accuracy and human-like interaction. Unlike standard clickers, PULSE utilizes a Bezier-based smoothing engine and dynamic randomization to ensure every action remains fluid and undetectable by basic pattern-recognition systems.
+⚡Overview: PULSE is a professional-grade automation engine designed for users who demand frame-perfect accuracy and human-like interaction. Unlike standard clickers, PULSE utilizes a Bezier-based smoothing engine and dynamic randomization to ensure every action remains fluid and undetectable by basic pattern-recognition systems.
 
 <img width="1134" height="940" alt="Screenshot 2026-02-12 204444" src="https://github.com/user-attachments/assets/48fda5e5-9285-440b-9ba7-43cfb71f3a99" />
 
