@@ -1,4 +1,5 @@
-💎 PULSE: Auto Clicker & Macro SuiteHigh-precision, low-profile automation for Windows.
+💎 PULSE: Auto Clicker & Macro Suite 
+High-precision, low-profile automation for Windows.
 
 [!IMPORTANT]DOWNLOAD REQUIREMENT: For full UI functionality and reliable auto-updates, please download only the Pulse.exe file from the Releases tab. Running the application from inside a .zip folder may cause rendering failures and block network requests.
 
