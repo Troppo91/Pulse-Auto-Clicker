@@ -1,3 +1,5 @@
+Please only download the Pulse.exe for full functionality and auto updates. Downaloading via the zip can cause some interface and failure to update issues for some users.
+
 💎 PULSE: Auto Clicker & Macro Suite
 
 A high-precision, low-profile automation engine for Windows.
