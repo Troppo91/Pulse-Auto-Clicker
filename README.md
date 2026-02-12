@@ -24,14 +24,19 @@ Global Persistence Logic: Your settings, keybinds, and macros are automatically 
 
 🎹 Controls & Keybinds
 
-CommandAction[ESC]Global Panic Halt (Immediate emergency system stop)
+Command Action [ESC] Global Panic Halt (Immediate emergency system stop)
 
-[F6]Initialize / Toggle Auto-Clicker
+[F6] Initialize / Toggle Auto-Clicker
 
-[F10]Capture Macro Sequence
+[F10] Capture Macro Sequence
 
-[Right-Click]Rename Selected Macro Slot
+[Right-Click] Rename Selected Macro Slot
 
-🛠️ Built WithPython 3.14+CustomTkinter: Modern UI framework with high-DPI scaling support.Pynput & Keyboard: Hardware-level hook management for input listening.PyDirectInput: Compatibility with low-level DirectInput drivers for in-game reliability.
+🛠️ Built WithPython 3.14+ CustomTkinter: Modern UI framework with high-DPI scaling support.
+Pynput & Keyboard: Hardware-level hook management for input listening.
+PyDirectInput: Compatibility with low-level DirectInput drivers for in-game reliability.
 
-📦 InstallationNavigate to the Releases page.Download the latest Pulse.exe.Move the file to your Desktop or a dedicated folder.Launch and automate.No Python installation or external dependencies required.
+📦 Installation: Navigate to the Releases page.
+Download the latest Pulse.exe.Move the file to your Desktop or a dedicated folder.
+Launch and automate.
+No Python installation or external dependencies required.
