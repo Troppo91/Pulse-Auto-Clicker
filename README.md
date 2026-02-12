@@ -37,6 +37,7 @@ Pynput & Keyboard: Hardware-level hook management for input listening.
 PyDirectInput: Compatibility with low-level DirectInput drivers for in-game reliability.
 
 📦 Installation: Navigate to the Releases page.
-Download the latest Pulse.exe.Move the file to your Desktop or a dedicated folder.
+Download the latest Pulse.exe.
+Move the file to your Desktop or a dedicated folder.
 Launch and automate.
 No Python installation or external dependencies required.
