@@ -1,7 +1,7 @@
 💎 PULSE: Auto Clicker & Macro Suite 
 High-precision, low-profile automation for Windows.
 
-[!IMPORTANT]DOWNLOAD REQUIREMENT: For full UI functionality and reliable auto-updates, please download only the Pulse.exe file from the Releases tab. Running the application from inside a .zip folder may cause rendering failures and block network requests.
+[!IMPORTANT] DOWNLOAD REQUIREMENT: For full UI functionality and reliable auto-updates, please download only the Pulse.exe file from the Releases tab. Running the application from inside a .zip folder may cause rendering failures and block network requests.
 
 ⚡OverviewPULSE is a professional-grade automation engine designed for users who demand frame-perfect accuracy and human-like interaction. Unlike standard clickers, PULSE utilizes a Bezier-based smoothing engine and dynamic randomization to ensure every action remains fluid and undetectable by basic pattern-recognition systems.
 
