@@ -1,6 +1,8 @@
 💎 PULSE: Apex Elite Macro Suite
 A high-precision, low-profile automation engine for Windows.
 
+<img width="1132" height="937" alt="Screenshot 2026-02-12 190919" src="https://github.com/user-attachments/assets/2fe3e487-f334-4849-8c71-ec0645865ee3" />
+
 PULSE is a definitive automation suite built for users who require frame-perfect accuracy and human-like movement in their macros. Developed with a focus on both power and stealth, PULSE features an advanced Bezier-based mouse smoothing engine and dynamic randomization to bypass basic pattern-recognition systems.
 
 🚀 Key Technical Features
