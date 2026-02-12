@@ -8,10 +8,18 @@ High-precision, low-profile automation for Windows.
 
 <img width="1134" height="940" alt="Screenshot 2026-02-12 204444" src="https://github.com/user-attachments/assets/48fda5e5-9285-440b-9ba7-43cfb71f3a99" />
 
-🚀 Key Technical Features16-Slot Command Center: Organize and manage a full library of complex macros within a modernized midnight-blue interface.Ghost Path (Bezier) Smoothing: Replaces rigid, linear mouse movement with organic, randomized arc paths that mimic human motor skills.Smart Range Delay 
-(Humanizer): Allows users to define a variance range for click intervals, ensuring intervals never repeat exactly.Zero-Loss Recording: Uses hardware-level timestamps and a queued listener to ensure every mouse state and keystroke is captured with 100% fidelity.
+🚀 Key Technical Features16-Slot Command Center: Organize and manage a full library of complex macros within a modernized midnight-blue interface.
+
+Ghost Path (Bezier) Smoothing: Replaces rigid, linear mouse movement with organic, randomized arc paths that mimic human motor skills.
+
+Smart Range Delay (Humanizer): Allows users to define a variance range for click intervals, ensuring intervals never repeat exactly.
+
+Zero-Loss Recording: Uses hardware-level timestamps and a queued listener to ensure every mouse state and keystroke is captured with 100% fidelity.
+
 Visual HUD Overlay: A non-intrusive, transparent layer that provides real-time glowing feedback at click coordinates—perfect for debugging complex sequences.
+
 Sonic Feedback System: Intuitive audio cues (frequency-based blips) allow you to confirm activation and status without tabbing out of your game or application.
+
 Global Persistence Logic: Your settings, keybinds, and macros are automatically synced to local profile snapshots, ready for your next session.
 
 🎹 Controls & Keybinds
